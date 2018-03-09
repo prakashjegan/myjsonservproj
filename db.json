@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "users": [
     { "id": 1, "title": "First Name" },
     { "id": 2, "title": "Last Name" },
     { "id": 3, "title": "Password" },
